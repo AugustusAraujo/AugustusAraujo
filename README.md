@@ -26,7 +26,7 @@ INFO
 <h2>Frameworks<h2>
 <div style="display: inline_block;padding:100px;">
  <img align="center" width="70" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
- <img align="center" width="70" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
+ <!-- <img align="center" width="70" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" /> -->
  <img align="center" width="70" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  <img align="center" width="70" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
  <img align="center" width="70" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
