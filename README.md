@@ -22,8 +22,6 @@ INFO
  <!--
  <img align="center" width="70" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
  -->
-
-"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
 </div>
 <h2>Frameworks<h2>
 <div style="display: inline_block;padding:100px;">
