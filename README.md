@@ -5,8 +5,8 @@
 INFO
 -->
 <img height="230" src="https://github-readme-stats.vercel.app/api?username=AugustusAraujo&show_icons=true&theme=tokyonight"> <img height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustusAraujo&show_icons=true&theme=tokyonight">
-## Tecnologias
-<div style="display: inline_block;padding:100px;">
+<h2>Tecnologias</h2>
+<div style="display: inline_bloco;padding:100px;">
  <img align="center" width="70" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
  <img align="center" width="70" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
  <img align="center" width="70" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
