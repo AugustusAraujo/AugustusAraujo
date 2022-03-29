@@ -4,8 +4,8 @@
 #### Sou um desenvolvedor PHP e JavaScript que está buscando sempre aprender mais.
 INFO
 -->
-<h3 align="center"><img height="230" src="https://github-readme-stats.vercel.app/api?username=AugustusAraujo&show_icons=true&theme=tokyonight"></h3> 
-<h3 align="center"><img height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustusAraujo&layout=compact&langs_count=7&theme=tokyonight"></h3>
+<h3 align="center"><img width="900" src="https://github-readme-stats.vercel.app/api?username=AugustusAraujo&show_icons=true&theme=tokyonight"></h3> 
+<h3 align="center"><img height="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustusAraujo&layout=compact&langs_count=7&theme=tokyonight"></h3>
  <hr>
 <h2>Tecnologias</h2>
 <div style="display: inline_bloco;padding:100px;">
