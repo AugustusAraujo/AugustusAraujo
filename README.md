@@ -48,11 +48,6 @@
  <img align="center" width="70" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
 </div>
 
-<h2>Deploy<h2>
- <img align="center" width="70" height="80" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
-<img align="center" width="70" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-
 <h2>Contato e Outros</h2>
 <div style="display: inline_block;padding:100px;">
  <a href="mailto:augustusaraujo13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
