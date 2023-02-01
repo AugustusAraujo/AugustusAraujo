@@ -3,7 +3,7 @@
 <h3 align="center"><img width="600" src="https://github-readme-stats.vercel.app/api?username=AugustusAraujo&show_icons=true&theme=swift&include_all_commits=true&count_private=true&hide=contribs,issues"></h3>
 <h3 align="center"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustusAraujo&layout=compact&langs_count=7&theme=swift"></h3>
  <hr>
-<h2>Tecnologias</h2>
+<h2>Linguagens</h2>
 <div style="display: inline_bloco;padding:100px;">
  <img align="center" width="70" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
  <img align="center" width="70" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
