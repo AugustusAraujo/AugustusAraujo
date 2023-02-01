@@ -63,6 +63,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.s
 <div style="display: inline_block;padding:100px;">
  <a href="mailto:augustusaraujo13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a href="https://www.linkedin.com/in/augustus-ara%C3%BAjo-135511216/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a href="https://gitlab.com/AugustusAraujo"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
  <a href="https://discord.gg/AWUpGEDaZs"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
